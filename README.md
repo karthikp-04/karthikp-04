@@ -1,14 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Karthik
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=220&section=header&text=Hi%20There,%20I'm%20Karthik%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20•%20Computer%20Vision%20•%20Full-Stack%20Developer&descAlignY=58&descSize=18"/>
 
-### AI & Machine Learning Engineer • Computer Vision • Full-Stack Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Vision+Engineer;Machine+Learning+Developer;LLMs+%7C+LangGraph+%7C+RAG;PyTorch+%7C+TensorFlow;Building+AI+Applications+🚀"/>
-
-<br>
-
-<i>Building intelligent solutions, one commit at a time. 🚀</i>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Vision+Engineer;Machine+Learning+Developer;LLMs+%7C+LangGraph+%7C+RAG;PyTorch+%7C+TensorFlow;Building+AI+Applications+🚀"/>
 
 <br>
 
@@ -19,9 +13,14 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=karthikp-04&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/karthikp-04?label=Followers&style=for-the-badge&color=58A6FF"/>
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0F2027&height=2&width=100%"/>
 
 ## 🚀 About Me
 
@@ -33,80 +32,111 @@ I'm a final-year **Computer Science & Engineering** student at **Amrita Vishwa V
 - 📜 Completed the **IBM AI Engineering Professional Certificate** (ML, Deep Learning, Generative AI, LLMs & RAG)
 - 🎯 Interested in AI systems that bridge research and real-world deployment
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0F2027&height=2&width=100%"/>
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+<div align="center">
 
-<p>
+**💻 Languages**
+<br>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript"/>
-</p>
 
-### 🤖 AI / Machine Learning
-
-<p>
+**🤖 AI / Machine Learning**
+<br>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
-</p>
 
-### 🌐 Backend
-
-<p>
+**🌐 Backend**
+<br>
 <img src="https://skillicons.dev/icons?i=fastapi,flask,spring"/>
-</p>
 
-### 🎨 Frontend
-
-<p>
+**🎨 Frontend**
+<br>
 <img src="https://skillicons.dev/icons?i=react,html,css"/>
-</p>
 
-### 🗄️ Database
-
-<p>
+**🗄️ Database**
+<br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-</p>
 
-### ⚙️ Dev Tools
-
-<p>
+**⚙️ Dev Tools**
+<br>
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode"/>
-</p>
 
----
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0F2027&height=2&width=100%"/>
 
 ## 🌟 Featured Projects
 
-### 🛰 Satellite Image Change Detection *(In Progress)*
+<table>
+<tr>
+<td width="50%">
+
+### 🛰 Satellite Image Change Detection
+<img src="https://img.shields.io/badge/status-in--progress-yellow?style=flat-square"/>
+
 `PyTorch` `U-Net` `BIT` `OSCD` `LEVIR-CD` `DSIFN`
+
 Deep learning pipeline for detecting land-cover changes in bi-temporal satellite imagery, benchmarking U-Net and transformer-based (BIT) architectures on OSCD, LEVIR-CD, and DSIFN datasets.
 
-### 🤖 LeadGraph — Social-to-Lead AI Agent
-`Python` `LangGraph` `Google Gemini` `FAISS`
-Stateful conversational agent built with LangGraph that manages multi-turn dialogue, using LLM-driven intent classification to switch between free-form chat and structured data extraction. Includes a local FAISS-powered RAG pipeline for autonomous product Q&A and simulated lead-capture tool calls, with persistent cross-turn memory.
+</td>
+<td width="50%">
+
+### 🤖 LeadGraph
+Social-to-Lead AI Agent
+
+`Python` `LangGraph` `Gemini` `FAISS`
+
+Stateful conversational agent built with LangGraph using LLM-driven intent classification to switch between free-form chat and structured extraction, backed by a local FAISS RAG pipeline with cross-turn memory.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 📈 Hybrid Stock Predictor
 `React` `FastAPI` `FinBERT` `yfinance`
-Full-stack platform combining real-time FinBERT sentiment analysis of financial news with technical indicators (dynamically weighted 70/30 toward news when available) to generate daily BUY/SELL/HOLD signals, backed by live yfinance data and watchlist management.
+
+Full-stack platform combining real-time FinBERT news sentiment with technical indicators (weighted 70/30 toward news) to generate daily BUY/SELL/HOLD signals from live yfinance data.
+
+</td>
+<td width="50%">
 
 ### 💊 Secure Prescription System
 `React` `Spring Boot` `PostgreSQL` `Docker`
-Full-stack secure prescription platform with MFA and Role-Based Access Control to prevent unauthorized data tampering. Dockerized (React + Spring Boot + PostgreSQL) via Docker Compose for consistent, one-command deployment.
 
-### 🚗 MARINA — Vehicular Edge Computing
+Full-stack platform with MFA and Role-Based Access Control to prevent data tampering, fully Dockerized via Docker Compose for one-command deployment.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚗 MARINA
+Vehicular Edge Computing
+
 `Java` `Python` `LSTM`
-Intelligent edge computing system using LSTM-based mobility prediction to anticipate vehicle movement and enable proactive task scheduling — dynamically balancing workloads between vehicles and roadside units to cut execution cost while meeting deadlines.
 
-### 🌦 Impact of Weather on Retail Sales
+LSTM-based mobility prediction enabling proactive task scheduling, balancing workloads between vehicles and roadside units to cut execution cost while meeting deadlines.
+
+</td>
+<td width="50%">
+
+### 🌦 Weather Impact on Retail Sales
 `Python` `Pandas` `Statsmodels` `Chart.js`
-Combined 2014–2018 grocery sales data with weather records to quantify how temperature, rainfall, and seasonality affect consumer behavior, using EDA, hypothesis testing, and OLS regression, presented through an interactive Chart.js dashboard.
 
----
+Combined 2014–2018 grocery sales with weather records to quantify seasonal effects on consumer behavior using EDA, hypothesis testing, and OLS regression.
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0F2027&height=2&width=100%"/>
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthikp-04&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthikp-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikp-04&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -115,10 +145,22 @@ Combined 2014–2018 grocery sales data with weather records to quantify how tem
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikp-04&theme=tokyo-night"/>
+<img src="https://github-profile-trophy.vercel.app/?username=karthikp-04&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
----
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikp-04&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<!--
+🐍 Animated contribution snake (renders below once the workflow runs)
+See the setup note under "What's new" for the one-time GitHub Action needed.
+-->
+<p align="center">
+<img src="https://raw.githubusercontent.com/karthikp-04/karthikp-04/output/github-contribution-grid-snake.svg"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0F2027&height=2&width=100%"/>
 
 ## 📫 Connect With Me
 
@@ -131,6 +173,4 @@ Combined 2014–2018 grocery sales data with weather records to quantify how tem
 </a>
 </p>
 
----
-
-<div align="center">⭐ From <b>Karthik</b></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0F2027&height=120&section=footer"/>
