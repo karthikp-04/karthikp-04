@@ -37,8 +37,40 @@ I'm a final-year **Computer Science & Engineering** student at **Amrita Vishwa V
 
 ## 🛠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,react,spring,flask,fastapi,postgres,mysql,docker,git,github,linux,vscode,pytorch,tensorflow,opencv"/>
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript"/>
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+</p>
+
+### 🌐 Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,spring"/>
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+</p>
+
+### ⚙️ Dev Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode"/>
 </p>
 
 ---
