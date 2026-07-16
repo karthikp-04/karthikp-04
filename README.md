@@ -199,17 +199,7 @@ Machine Learning • Deep Learning • Generative AI • LLMs • RAG Systems
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthikp-04&theme=tokyonight" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karthikp-04&theme=tokyonight" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karthikp-04&theme=tokyonight" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karthikp-04&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikp-04&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikp-04&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
