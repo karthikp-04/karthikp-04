@@ -13,25 +13,13 @@
 </div>
 
 ---
-# 💫 About Me
+## 🚀 About Me
 
-🎓 Final Year B.Tech CSE Student
-
-🏫 Amrita Vishwa Vidyapeetham
-
-💻 Interested in
-
-- Machine Learning
-- Computer Vision
-- Deep Learning
-- Software Engineering
-
-🌱 Currently working on
-
-- Satellite Image Change Detection
-- Vision Transformers
-- PyTorch
-- Full Stack Development
+- 🎓 Final Year **B.Tech in Computer Science & Engineering**
+- 🏫 **Amrita Vishwa Vidyapeetham, Coimbatore**
+- 💡 Passionate about **Machine Learning, Computer Vision, and Software Development**
+- 🌱 Currently exploring **Vision Transformers, Deep Learning, and MLOps**
+- 🎯 Goal: Build scalable AI systems and contribute to impactful open-source projects.
 
 ---
 
