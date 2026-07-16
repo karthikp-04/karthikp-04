@@ -112,11 +112,11 @@ Java + Database Project
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINK">
+<a href="https://www.linkedin.com/in/karthik-p-38659b352/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:itskp2004@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
