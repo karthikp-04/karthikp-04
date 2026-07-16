@@ -199,33 +199,26 @@ Machine Learning • Deep Learning • Generative AI • LLMs • RAG Systems
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karthikp-04&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=karthikp-04&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthikp-04&theme=tokyonight" width="100%"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikp-04&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karthikp-04&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karthikp-04&theme=tokyonight" width="49%"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=karthikp-04&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karthikp-04&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikp-04&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikp-04&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=karthikp-04&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikp-04&theme=tokyo-night&hide_border=true"/>
+</p>
 ---
 
 # 🤝 Let's Connect
