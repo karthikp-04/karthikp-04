@@ -1,176 +1,253 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=220&section=header&text=Hi%20There,%20I'm%20Karthik%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20•%20Computer%20Vision%20•%20Full-Stack%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=240&section=header&text=Karthik%20P&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20•%20Computer%20Vision%20•%20AI%20Agents%20•%20Full-Stack%20Development&descAlignY=60&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Vision+Engineer;Machine+Learning+Developer;LLMs+%7C+LangGraph+%7C+RAG;PyTorch+%7C+TensorFlow;Building+AI+Applications+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+AI+Applications;Computer+Vision+%26+Remote+Sensing;LLM+Agents+%7C+LangGraph+%7C+RAG;PyTorch+%7C+FastAPI+%7C+React;Always+Learning+Something+New+🚀"/>
 
 <br>
 
+<p>
 <a href="https://www.linkedin.com/in/karthik-p-38659b352/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:itskp2004@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</p>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=karthikp-04&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/karthikp-04?label=Followers&style=for-the-badge&color=58A6FF"/>
+<img src="https://komarev.com/ghpvc/?username=karthikp-04&label=Profile+Views&style=for-the-badge&color=58A6FF"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0F2027&height=2&width=100%"/>
+---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-I'm a final-year **Computer Science & Engineering** student at **Amrita Vishwa Vidyapeetham**, passionate about building intelligent software that combines **Machine Learning**, **Computer Vision**, **LLM-based AI Agents**, and **Full-Stack Development**.
+I'm a final-year **Computer Science & Engineering** student at **Amrita Vishwa Vidyapeetham, Coimbatore**, passionate about building intelligent software that combines **Machine Learning**, **Computer Vision**, **LLM-based AI Agents**, and **Full-Stack Development**.
 
-- 🤖 Building practical AI applications with **PyTorch, FastAPI, LangGraph, and React**
-- 🛰️ Currently developing a **Satellite Image Change Detection** pipeline using **U-Net** and **BIT**
-- 🌱 Exploring **Vision Transformers**, **Agentic AI Workflows**, and **MLOps**
-- 📜 Completed the **IBM AI Engineering Professional Certificate** (ML, Deep Learning, Generative AI, LLMs & RAG)
-- 🎯 Interested in AI systems that bridge research and real-world deployment
+## 🎯 Current Focus
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0F2027&height=2&width=100%"/>
+- 🛰️ Satellite Image Change Detection using **U-Net** and **Bitemporal Image Transformer (BIT)** *(Research Project — In Progress)*
+- 🤖 Building LLM-powered AI Agents using **LangGraph**, **Gemini**, and **RAG**
+- ⚙️ Developing end-to-end AI applications with **PyTorch**, **FastAPI**, and **React**
+- 🌱 Exploring **Vision Transformers**, **MLOps**, and **Generative AI**
 
-## 🛠 Tech Stack
+---
 
-<div align="center">
+# 🛠 Tech Stack
 
-**💻 Languages**
-<br>
+## 💻 Languages
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript"/>
+</p>
 
-**🤖 AI / Machine Learning**
-<br>
+## 🤖 AI / Machine Learning
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+</p>
 
-**🌐 Backend**
-<br>
+**Libraries & Frameworks**
+
+`LangGraph` • `FAISS` • `Google Gemini` • `FinBERT`
+
+## 🌐 Backend
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=fastapi,flask,spring"/>
+</p>
 
-**🎨 Frontend**
-<br>
+## 🎨 Frontend
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,html,css"/>
+</p>
 
-**🗄️ Database**
-<br>
+## 🗄 Database
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+</p>
 
-**⚙️ Dev Tools**
-<br>
+## ⚙️ Tools
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode"/>
+</p>
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0F2027&height=2&width=100%"/>
+# 🚀 Featured Projects
 
-## 🌟 Featured Projects
+## 🛰️ Satellite Image Change Detection *(In Progress)*
 
-<table>
-<tr>
-<td width="50%">
+> **Research Project**
 
-### 🛰 Satellite Image Change Detection
-<img src="https://img.shields.io/badge/status-in--progress-yellow?style=flat-square"/>
+**Tech Stack**
 
-`PyTorch` `U-Net` `BIT` `OSCD` `LEVIR-CD` `DSIFN`
+`PyTorch` `U-Net` `BIT` `OpenCV`
 
-Deep learning pipeline for detecting land-cover changes in bi-temporal satellite imagery, benchmarking U-Net and transformer-based (BIT) architectures on OSCD, LEVIR-CD, and DSIFN datasets.
+**Datasets**
 
-</td>
-<td width="50%">
+`OSCD` • `LEVIR-CD` • `DSIFN`
 
-### 🤖 LeadGraph
-Social-to-Lead AI Agent
+**Highlights**
+
+- Benchmarking CNN and Transformer-based architectures
+- Performance evaluation using Accuracy, IoU and F1-score
+- Visualization pipeline for prediction analysis
+
+---
+
+## 🤖 LeadGraph — Social-to-Lead AI Agent
+
+**Tech**
 
 `Python` `LangGraph` `Gemini` `FAISS`
 
-Stateful conversational agent built with LangGraph using LLM-driven intent classification to switch between free-form chat and structured extraction, backed by a local FAISS RAG pipeline with cross-turn memory.
+**Highlights**
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+- Multi-turn conversational workflow
+- LLM-powered intent classification
+- Local FAISS-based Retrieval-Augmented Generation
+- Persistent conversation memory
+- Simulated lead-capture tool calling
 
-### 📈 Hybrid Stock Predictor
+---
+
+## 📈 Hybrid Stock Predictor
+
+**Tech**
+
 `React` `FastAPI` `FinBERT` `yfinance`
 
-Full-stack platform combining real-time FinBERT news sentiment with technical indicators (weighted 70/30 toward news) to generate daily BUY/SELL/HOLD signals from live yfinance data.
+**Highlights**
 
-</td>
-<td width="50%">
+- Real-time financial news sentiment
+- Technical indicator analysis
+- BUY / SELL / HOLD recommendations
+- Interactive dashboard
 
-### 💊 Secure Prescription System
+---
+
+## 💊 Secure Prescription System
+
+**Tech**
+
 `React` `Spring Boot` `PostgreSQL` `Docker`
 
-Full-stack platform with MFA and Role-Based Access Control to prevent data tampering, fully Dockerized via Docker Compose for one-command deployment.
+**Highlights**
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+- Multi-Factor Authentication
+- Role-Based Access Control
+- Docker Compose deployment
+- Responsive React interface
 
-### 🚗 MARINA
-Vehicular Edge Computing
+---
+
+## 🚗 MARINA — Vehicular Edge Computing
+
+**Tech**
 
 `Java` `Python` `LSTM`
 
-LSTM-based mobility prediction enabling proactive task scheduling, balancing workloads between vehicles and roadside units to cut execution cost while meeting deadlines.
+**Highlights**
 
-</td>
-<td width="50%">
+- Mobility prediction
+- Intelligent task scheduling
+- Deadline-aware execution
+- Reduced computation cost
 
-### 🌦 Weather Impact on Retail Sales
+---
+
+## 🌦 Weather Impact on Retail Sales
+
+**Tech**
+
 `Python` `Pandas` `Statsmodels` `Chart.js`
 
-Combined 2014–2018 grocery sales with weather records to quantify seasonal effects on consumer behavior using EDA, hypothesis testing, and OLS regression.
+**Highlights**
 
-</td>
-</tr>
-</table>
+- Exploratory Data Analysis
+- Statistical hypothesis testing
+- OLS Regression
+- Interactive visualization dashboard
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0F2027&height=2&width=100%"/>
+---
 
-## 📊 GitHub Statistics
+# 🔬 Research Interests
+
+- 🛰 Computer Vision
+- 🌍 Remote Sensing
+- 👁 Vision Transformers
+- 🤖 AI Agents
+- 🧠 Deep Learning
+- 📚 Retrieval-Augmented Generation
+
+---
+
+# 📜 Certification
+
+🏅 **IBM AI Engineering Professional Certificate**
+
+Machine Learning • Deep Learning • Generative AI • LLMs • RAG Systems
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthikp-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikp-04&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=karthikp-04&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikp-04&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikp-04&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=karthikp-04&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikp-04&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
-<!--
-🐍 Animated contribution snake (renders below once the workflow runs)
-See the setup note under "What's new" for the one-time GitHub Action needed.
--->
-<p align="center">
-<img src="https://raw.githubusercontent.com/karthikp-04/karthikp-04/output/github-contribution-grid-snake.svg"/>
-</p>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0F2027&height=2&width=100%"/>
-
-## 📫 Connect With Me
+# 🤝 Let's Connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/karthik-p-38659b352/">
+
+<a href="https://www.linkedin.com/in/karthik-p-38659b352">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
 <a href="mailto:itskp2004@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
 </p>
 
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+I'm always open to collaborating on **Machine Learning**, **Computer Vision**, **AI Agents**, and **Full-Stack Development**.
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0F2027&height=120&section=footer"/>
+
+</div>
