@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Karthik P
+# Hi 👋 I'm Karthik 
 
 ### AI Engineer • Computer Vision • Machine Learning • Software Developer
 
