@@ -1,21 +1,18 @@
 <div align="center">
 
-# Hi 👋 I'm Karthik 
+# Hi 👋, I'm Karthik 
 
-### AI Engineer • Computer Vision • Machine Learning • Software Developer
+### AI & Machine Learning Engineer • Computer Vision • Software Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Vision+Engineer;Machine+Learning+Developer;PyTorch+%7C+TensorFlow;Building+AI+Applications;Always+Learning+🚀"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=karthikp-04&style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/followers/karthikp-04?style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/stars/karthikp-04?affiliations=OWNER&style=for-the-badge&color=blue"/>
+<i>Building intelligent solutions, one commit at a time. 🚀</i>
 
 </div>
 
 ---
-
 # 💫 About Me
 
 🎓 Final Year B.Tech CSE Student
