@@ -25,11 +25,13 @@
 
 ## 🚀 About Me
 
-- 🎓 Final Year **B.Tech in Computer Science & Engineering**, Amrita Vishwa Vidyapeetham, Coimbatore
-- 💡 Passionate about **Machine Learning, Computer Vision, LLM Agents, and Full-Stack Development**
-- 🌱 Currently exploring **Vision Transformers, Agentic AI Workflows, and MLOps**
-- 📜 **IBM AI Engineering Professional Certificate** — 13-course series covering ML, Deep Learning, Generative AI, LLMs & RAG systems
-- 🎯 Goal: Build scalable, real-world AI systems and contribute to impactful open-source projects
+I'm a final-year **Computer Science & Engineering** student at **Amrita Vishwa Vidyapeetham**, passionate about building intelligent software that combines **Machine Learning**, **Computer Vision**, **LLM-based AI Agents**, and **Full-Stack Development**.
+
+- 🤖 Building practical AI applications with **PyTorch, FastAPI, LangGraph, and React**
+- 🛰️ Currently developing a **Satellite Image Change Detection** pipeline using **U-Net** and **BIT**
+- 🌱 Exploring **Vision Transformers**, **Agentic AI Workflows**, and **MLOps**
+- 📜 Completed the **IBM AI Engineering Professional Certificate** (ML, Deep Learning, Generative AI, LLMs & RAG)
+- 🎯 Interested in AI systems that bridge research and real-world deployment
 
 ---
 
