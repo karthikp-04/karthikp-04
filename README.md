@@ -7,6 +7,15 @@
 <br>
 
 <p>
+
+<a href="https://karthikp-04.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://karthikp-04.github.io/portfolio/resume.pdf">
+<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/karthik-p-38659b352/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
